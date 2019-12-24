@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>latent variables | Markus Dreyer</title>
+    <link>/tags/latent-variables/</link>
+      <atom:link href="/tags/latent-variables/index.xml" rel="self" type="application/rss+xml" />
+    <description>latent variables</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>latent variables</title>
+      <link>/tags/latent-variables/</link>
+    </image>
+    
+    <item>
+      <title>Latent-Variable Modeling of String Transductions with Finite-State Methods</title>
+      <link>/publication/dreyer-smith-eisner-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-smith-eisner-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting prosody for PCFGs with latent annotations</title>
+      <link>/publication/dreyer-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Informed Training of Latent Syntactic Features</title>
+      <link>/publication/dreyer-eisner-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

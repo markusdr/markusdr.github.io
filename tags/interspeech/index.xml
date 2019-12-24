@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interspeech | Markus Dreyer</title>
+    <link>/tags/interspeech/</link>
+      <atom:link href="/tags/interspeech/index.xml" rel="self" type="application/rss+xml" />
+    <description>interspeech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>interspeech</title>
+      <link>/tags/interspeech/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
+      <link>/publication/kumar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>
+      <link>/publication/ladhak-2016-lattice-rnn-rn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2016-lattice-rnn-rn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting prosody for PCFGs with latent annotations</title>
+      <link>/publication/dreyer-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

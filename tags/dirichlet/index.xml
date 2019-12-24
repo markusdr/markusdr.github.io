@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dirichlet | Markus Dreyer</title>
+    <link>/tags/dirichlet/</link>
+      <atom:link href="/tags/dirichlet/index.xml" rel="self" type="application/rss+xml" />
+    <description>dirichlet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>dirichlet</title>
+      <link>/tags/dirichlet/</link>
+    </image>
+    
+    <item>
+      <title>Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model</title>
+      <link>/publication/dreyer-eisner-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-Parametric Model for the Discovery of Inflectional Paradigms from Plain Text Using Graphical Models over Strings</title>
+      <link>/publication/dreyer-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

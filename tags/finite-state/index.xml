@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finite state | Markus Dreyer</title>
+    <link>/tags/finite-state/</link>
+      <atom:link href="/tags/finite-state/index.xml" rel="self" type="application/rss+xml" />
+    <description>finite state</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>finite state</title>
+      <link>/tags/finite-state/</link>
+    </image>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hill climbing on speech lattices: A new rescoring framework</title>
+      <link>/publication/conficassp-rastrow-dskrd-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conficassp-rastrow-dskrd-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent-Variable Modeling of String Transductions with Finite-State Methods</title>
+      <link>/publication/dreyer-smith-eisner-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-smith-eisner-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine translation | Markus Dreyer</title>
+    <link>/tags/machine-translation/</link>
+      <atom:link href="/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine translation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>machine translation</title>
+      <link>/tags/machine-translation/</link>
+    </image>
+    
+    <item>
+      <title>APRO: All-Pairs Ranking Optimization for MT Tuning</title>
+      <link>/publication/dreyer-dong-2015-apro/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-dong-2015-apro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>
+      <link>/publication/dreyer-marcu-2012-hyter/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-marcu-2012-hyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation System Combination using ITG-based Alignments</title>
+      <link>/publication/karakos-et-al-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/karakos-et-al-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final report of the 2005 language engineering workshop on statistical machine translation by parsing</title>
+      <link>/publication/burbank-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/burbank-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

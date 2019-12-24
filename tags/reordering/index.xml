@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reordering | Markus Dreyer</title>
+    <link>/tags/reordering/</link>
+      <atom:link href="/tags/reordering/index.xml" rel="self" type="application/rss+xml" />
+    <description>reordering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>reordering</title>
+      <link>/tags/reordering/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

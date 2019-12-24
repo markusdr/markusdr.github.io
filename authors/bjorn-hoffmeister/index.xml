@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Hoffmeister | Markus Dreyer</title>
+    <link>/authors/bjorn-hoffmeister/</link>
+      <atom:link href="/authors/bjorn-hoffmeister/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Hoffmeister</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Björn Hoffmeister</title>
+      <link>/authors/bjorn-hoffmeister/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
+      <link>/publication/kumar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>
+      <link>/publication/ladhak-2016-lattice-rnn-rn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2016-lattice-rnn-rn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural | Markus Dreyer</title>
+    <link>/tags/neural/</link>
+      <atom:link href="/tags/neural/index.xml" rel="self" type="application/rss+xml" />
+    <description>neural</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>neural</title>
+      <link>/tags/neural/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
+      <link>/publication/pentyala-etal-2019-multi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Neural Semantic Parsing</title>
+      <link>/publication/fan-etal-2017-transfer/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-etal-2017-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
+      <link>/publication/kumar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>
+      <link>/publication/ladhak-2016-lattice-rnn-rn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2016-lattice-rnn-rn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

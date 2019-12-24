@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emnlp | Markus Dreyer</title>
+    <link>/tags/emnlp/</link>
+      <atom:link href="/tags/emnlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>emnlp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>emnlp</title>
+      <link>/tags/emnlp/</link>
+    </image>
+    
+    <item>
+      <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>
+      <link>/publication/dreyer-marcu-2012-hyter/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-marcu-2012-hyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model</title>
+      <link>/publication/dreyer-eisner-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Models over Multiple Strings</title>
+      <link>/publication/dreyer-eisner-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Informed Training of Latent Syntactic Features</title>
+      <link>/publication/dreyer-eisner-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

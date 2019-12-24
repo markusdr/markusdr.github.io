@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transfer learning | Markus Dreyer</title>
+    <link>/tags/transfer-learning/</link>
+      <atom:link href="/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>transfer learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>transfer learning</title>
+      <link>/tags/transfer-learning/</link>
+    </image>
+    
+    <item>
+      <title>Transfer Learning for Neural Semantic Parsing</title>
+      <link>/publication/fan-etal-2017-transfer/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-etal-2017-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
+      <link>/publication/kumar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

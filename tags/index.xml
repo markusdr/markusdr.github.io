@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Markus Dreyer</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>acl</title>
+      <link>/tags/acl/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>/tags/amazon/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-task</title>
+      <link>/tags/multi-task/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/multi-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural</title>
+      <link>/tags/neural/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic parsing</title>
+      <link>/tags/semantic-parsing/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/semantic-parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer learning</title>
+      <link>/tags/transfer-learning/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interspeech</title>
+      <link>/tags/interspeech/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/interspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlu</title>
+      <link>/tags/nlu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/nlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zero-shot</title>
+      <link>/tags/zero-shot/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lattice</title>
+      <link>/tags/lattice/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/lattice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rnn</title>
+      <link>/tags/rnn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>/tags/speech/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamic programming</title>
+      <link>/tags/dynamic-programming/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finite state</title>
+      <link>/tags/finite-state/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/finite-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyp</title>
+      <link>/tags/hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypergraphs</title>
+      <link>/tags/hypergraphs/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/hypergraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine translation</title>
+      <link>/tags/machine-translation/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ranking</title>
+      <link>/tags/ranking/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emnlp</title>
+      <link>/tags/emnlp/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>/tags/evaluation/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyter</title>
+      <link>/tags/hyter/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/hyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>belief propagation</title>
+      <link>/tags/belief-propagation/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/belief-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dirichlet</title>
+      <link>/tags/dirichlet/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/dirichlet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphical models</title>
+      <link>/tags/graphical-models/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/graphical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monte carlo</title>
+      <link>/tags/monte-carlo/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morphology</title>
+      <link>/tags/morphology/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icassp</title>
+      <link>/tags/icassp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entity</title>
+      <link>/tags/entity/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/entity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slot filling</title>
+      <link>/tags/slot-filling/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/slot-filling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tac</title>
+      <link>/tags/tac/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/tac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent variables</title>
+      <link>/tags/latent-variables/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/latent-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lemmatization</title>
+      <link>/tags/lemmatization/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/lemmatization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log-linear</title>
+      <link>/tags/log-linear/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/log-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confusion network</title>
+      <link>/tags/confusion-network/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/confusion-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itg</title>
+      <link>/tags/itg/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/tags/itg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>naacl</title>
+      <link>/tags/naacl/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/tags/naacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reordering</title>
+      <link>/tags/reordering/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/tags/reordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prosody</title>
+      <link>/tags/prosody/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/tags/prosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsing</title>
+      <link>/tags/parsing/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semi-supervised</title>
+      <link>/tags/semi-supervised/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/semi-supervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conll</title>
+      <link>/tags/conll/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/conll/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

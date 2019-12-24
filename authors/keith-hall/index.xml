@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Hall | Markus Dreyer</title>
+    <link>/authors/keith-hall/</link>
+      <atom:link href="/authors/keith-hall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keith Hall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Keith Hall</title>
+      <link>/authors/keith-hall/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hyp | Markus Dreyer</title>
+    <link>/tags/hyp/</link>
+      <atom:link href="/tags/hyp/index.xml" rel="self" type="application/rss+xml" />
+    <description>hyp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>hyp</title>
+      <link>/tags/hyp/</link>
+    </image>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

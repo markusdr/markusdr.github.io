@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic parsing | Markus Dreyer</title>
+    <link>/tags/semantic-parsing/</link>
+      <atom:link href="/tags/semantic-parsing/index.xml" rel="self" type="application/rss+xml" />
+    <description>semantic parsing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>semantic parsing</title>
+      <link>/tags/semantic-parsing/</link>
+    </image>
+    
+    <item>
+      <title>Transfer Learning for Neural Semantic Parsing</title>
+      <link>/publication/fan-etal-2017-transfer/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-etal-2017-transfer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

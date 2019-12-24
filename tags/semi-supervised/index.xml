@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semi-supervised | Markus Dreyer</title>
+    <link>/tags/semi-supervised/</link>
+      <atom:link href="/tags/semi-supervised/index.xml" rel="self" type="application/rss+xml" />
+    <description>semi-supervised</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>semi-supervised</title>
+      <link>/tags/semi-supervised/</link>
+    </image>
+    
+    <item>
+      <title>Better Informed Training of Latent Syntactic Features</title>
+      <link>/publication/dreyer-eisner-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

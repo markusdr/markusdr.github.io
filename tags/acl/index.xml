@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acl | Markus Dreyer</title>
+    <link>/tags/acl/</link>
+      <atom:link href="/tags/acl/index.xml" rel="self" type="application/rss+xml" />
+    <description>acl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>acl</title>
+      <link>/tags/acl/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
+      <link>/publication/pentyala-etal-2019-multi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Neural Semantic Parsing</title>
+      <link>/publication/fan-etal-2017-transfer/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-etal-2017-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APRO: All-Pairs Ranking Optimization for MT Tuning</title>
+      <link>/publication/dreyer-dong-2015-apro/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-dong-2015-apro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation System Combination using ITG-based Alignments</title>
+      <link>/publication/karakos-et-al-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/karakos-et-al-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

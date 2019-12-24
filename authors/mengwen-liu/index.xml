@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengwen Liu | Markus Dreyer</title>
+    <link>/authors/mengwen-liu/</link>
+      <atom:link href="/authors/mengwen-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengwen Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mengwen Liu</title>
+      <link>/authors/mengwen-liu/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
+      <link>/publication/pentyala-etal-2019-multi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

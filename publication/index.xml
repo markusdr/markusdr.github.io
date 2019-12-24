@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Markus Dreyer</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
+      <link>/publication/pentyala-etal-2019-multi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Neural Semantic Parsing</title>
+      <link>/publication/fan-etal-2017-transfer/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-etal-2017-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
+      <link>/publication/kumar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>
+      <link>/publication/ladhak-2016-lattice-rnn-rn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2016-lattice-rnn-rn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APRO: All-Pairs Ranking Optimization for MT Tuning</title>
+      <link>/publication/dreyer-dong-2015-apro/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-dong-2015-apro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>
+      <link>/publication/dreyer-marcu-2012-hyter/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-marcu-2012-hyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model</title>
+      <link>/publication/dreyer-eisner-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-Parametric Model for the Discovery of Inflectional Paradigms from Plain Text Using Graphical Models over Strings</title>
+      <link>/publication/dreyer-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hill climbing on speech lattices: A new rescoring framework</title>
+      <link>/publication/conficassp-rastrow-dskrd-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conficassp-rastrow-dskrd-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Models over Multiple Strings</title>
+      <link>/publication/dreyer-eisner-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLTCOE Approaches to Knowledge Base Population at TAC 2009</title>
+      <link>/publication/mc-namee-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-namee-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent-Variable Modeling of String Transductions with Finite-State Methods</title>
+      <link>/publication/dreyer-smith-eisner-2008/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-smith-eisner-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation System Combination using ITG-based Alignments</title>
+      <link>/publication/karakos-et-al-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/karakos-et-al-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting prosody for PCFGs with latent annotations</title>
+      <link>/publication/dreyer-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Informed Training of Latent Syntactic Features</title>
+      <link>/publication/dreyer-eisner-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-eisner-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vine Parsing and Minimum Risk Reranking for Speed and Precision</title>
+      <link>/publication/dreyer-etal-2006-vine/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2006-vine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final report of the 2005 language engineering workshop on statistical machine translation by parsing</title>
+      <link>/publication/burbank-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/burbank-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

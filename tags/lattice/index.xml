@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lattice | Markus Dreyer</title>
+    <link>/tags/lattice/</link>
+      <atom:link href="/tags/lattice/index.xml" rel="self" type="application/rss+xml" />
+    <description>lattice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>lattice</title>
+      <link>/tags/lattice/</link>
+    </image>
+    
+    <item>
+      <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>
+      <link>/publication/ladhak-2016-lattice-rnn-rn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2016-lattice-rnn-rn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>
+      <link>/publication/dreyer-marcu-2012-hyter/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-marcu-2012-hyter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hill climbing on speech lattices: A new rescoring framework</title>
+      <link>/publication/conficassp-rastrow-dskrd-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conficassp-rastrow-dskrd-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

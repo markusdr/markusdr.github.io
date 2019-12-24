@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dynamic programming | Markus Dreyer</title>
+    <link>/tags/dynamic-programming/</link>
+      <atom:link href="/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>dynamic programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>dynamic programming</title>
+      <link>/tags/dynamic-programming/</link>
+    </image>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

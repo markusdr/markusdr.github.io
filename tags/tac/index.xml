@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tac | Markus Dreyer</title>
+    <link>/tags/tac/</link>
+      <atom:link href="/tags/tac/index.xml" rel="self" type="application/rss+xml" />
+    <description>tac</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>tac</title>
+      <link>/tags/tac/</link>
+    </image>
+    
+    <item>
+      <title>HLTCOE Approaches to Knowledge Base Population at TAC 2009</title>
+      <link>/publication/mc-namee-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-namee-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

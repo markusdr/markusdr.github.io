@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Dreyer | Markus Dreyer</title>
+    <link>/authors/m.-dreyer/</link>
+      <atom:link href="/authors/m.-dreyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Dreyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Dreyer</title>
+      <link>/authors/m.-dreyer/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting prosody for PCFGs with latent annotations</title>
+      <link>/publication/dreyer-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final report of the 2005 language engineering workshop on statistical machine translation by parsing</title>
+      <link>/publication/burbank-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/burbank-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

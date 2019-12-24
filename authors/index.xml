@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Markus Dreyer</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Markus Dreyer</title>
+      <link>/authors/markus-dreyer/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/markus-dreyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengwen Liu</title>
+      <link>/authors/mengwen-liu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mengwen-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiva Pentyala</title>
+      <link>/authors/shiva-pentyala/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shiva-pentyala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Markus Dreyer is a Machine Learning Scientist at Amazon. He has been part of the Alexa group since 2015, leading projects in natural language understanding question answering. He has published on transfer learning, semi-supervised learning, graphical models, semantic parsing, neural lattice parsing, and entity linking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emilio Monti</title>
+      <link>/authors/emilio-monti/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/emilio-monti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambert Mathias</title>
+      <link>/authors/lambert-mathias/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/lambert-mathias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xing Fan</title>
+      <link>/authors/xing-fan/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/xing-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anjishnu Kumar</title>
+      <link>/authors/anjishnu-kumar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/anjishnu-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Björn Hoffmeister</title>
+      <link>/authors/bjorn-hoffmeister/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/bjorn-hoffmeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pavankumar Reddy Muddireddy</title>
+      <link>/authors/pavankumar-reddy-muddireddy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/pavankumar-reddy-muddireddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ankur Gandhe</title>
+      <link>/authors/ankur-gandhe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ankur-gandhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ariya Rastrow</title>
+      <link>/authors/ariya-rastrow/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ariya-rastrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faisal Ladhak</title>
+      <link>/authors/faisal-ladhak/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/faisal-ladhak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Graehl</title>
+      <link>/authors/jonathan-graehl/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jonathan-graehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanzhe Dong</title>
+      <link>/authors/yuanzhe-dong/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/yuanzhe-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Marcu</title>
+      <link>/authors/daniel-marcu/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-marcu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Eisner</title>
+      <link>/authors/jason-eisner/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-eisner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhinav Sethy</title>
+      <link>/authors/abhinav-sethy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/abhinav-sethy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhuvana Ramabhadran</title>
+      <link>/authors/bhuvana-ramabhadran/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/bhuvana-ramabhadran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Dredze</title>
+      <link>/authors/mark-dredze/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-dredze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjeev Khudanpur</title>
+      <link>/authors/sanjeev-khudanpur/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/sanjeev-khudanpur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Gerber</title>
+      <link>/authors/adam-gerber/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/adam-gerber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Piatko</title>
+      <link>/authors/christine-piatko/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/christine-piatko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Yarowsky</title>
+      <link>/authors/david-yarowsky/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/david-yarowsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delip Rao</title>
+      <link>/authors/delip-rao/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/delip-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Mayfield</title>
+      <link>/authors/james-mayfield/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/james-mayfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikesh Garera</title>
+      <link>/authors/nikesh-garera/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/nikesh-garera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul McNamee</title>
+      <link>/authors/paul-mcnamee/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-mcnamee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Finin</title>
+      <link>/authors/tim-finin/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/tim-finin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason R. Smith</title>
+      <link>/authors/jason-r.-smith/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-r.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damianos Karakos</title>
+      <link>/authors/damianos-karakos/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/damianos-karakos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keith Hall</title>
+      <link>/authors/keith-hall/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/authors/keith-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Shafran</title>
+      <link>/authors/i.-shafran/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-shafran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Dreyer</title>
+      <link>/authors/m.-dreyer/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-dreyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David A. Smith</title>
+      <link>/authors/david-a.-smith/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/david-a.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noah A. Smith</title>
+      <link>/authors/noah-a.-smith/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/authors/noah-a.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Others</title>
+      <link>/authors/others/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Burbank</title>
+      <link>/authors/a.-burbank/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-burbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Groves</title>
+      <link>/authors/d.-groves/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-groves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. D Melamed</title>
+      <link>/authors/i.-d-melamed/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-d-melamed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Hall</title>
+      <link>/authors/k.-hall/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Carpuat</title>
+      <link>/authors/m.-carpuat/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-carpuat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Hearne</title>
+      <link>/authors/m.-hearne/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-hearne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Fox</title>
+      <link>/authors/p.-fox/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Clark</title>
+      <link>/authors/s.-clark/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Shen</title>
+      <link>/authors/y.-shen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/y.-shen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjeev Khudanpur | Markus Dreyer</title>
+    <link>/authors/sanjeev-khudanpur/</link>
+      <atom:link href="/authors/sanjeev-khudanpur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanjeev Khudanpur</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sanjeev Khudanpur</title>
+      <link>/authors/sanjeev-khudanpur/</link>
+    </image>
+    
+    <item>
+      <title>Hill climbing on speech lattices: A new rescoring framework</title>
+      <link>/publication/conficassp-rastrow-dskrd-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conficassp-rastrow-dskrd-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation System Combination using ITG-based Alignments</title>
+      <link>/publication/karakos-et-al-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/karakos-et-al-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Reordering Constraints for SMT Using Efficient BLEU Oracle Computation</title>
+      <link>/publication/dreyer-etal-2007-comparing/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2007-comparing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
