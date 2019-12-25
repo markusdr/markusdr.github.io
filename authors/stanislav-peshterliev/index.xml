@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanislav Peshterliev | Markus Dreyer</title>
+    <link>/authors/stanislav-peshterliev/</link>
+      <atom:link href="/authors/stanislav-peshterliev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stanislav Peshterliev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stanislav Peshterliev</title>
+      <link>/authors/stanislav-peshterliev/</link>
+    </image>
+    
+    <item>
+      <title>Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding</title>
+      <link>/publication/kumar-2017-just-ask/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017-just-ask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

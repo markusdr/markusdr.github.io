@@ -5,12 +5,20 @@
     <link>/tags/nlu/</link>
       <atom:link href="/tags/nlu/index.xml" rel="self" type="application/rss+xml" />
     <description>nlu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>nlu</title>
       <link>/tags/nlu/</link>
     </image>
+    
+    <item>
+      <title>Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding</title>
+      <link>/publication/kumar-2017-just-ask/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2017-just-ask/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-Shot Learning Across Heterogeneous Overlapping Domains</title>
