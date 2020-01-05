@@ -1,104 +1,34 @@
-    <script src="https://code.jquery.com/jquery-1.10.2.js">
-    </script>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="/propeller.js"></script>
+<script src="/wheel.js"></script>
 
 <style>
-      .spinner {
-      position: absolute;
-      }
-      .back {
-      position: absolute;
-      }
+  .absolute { position: absolute; }
+  .parent { height: 400px; width: 400px; background-color: "red";}
 </style>
 
-  <div class="back">
+<body onload="init_propellers(document);">"
+
+<div id="parent">
+  <div class="absolute" id="back">
     <img src="/img/background.png">
   </div>
 
-  <div class="spinner">
+  <div class="absolute" id="front">
     <img src="/img/foreground.png" usemap="#image-map">
     <map name="image-map">
-      <area coords="512,512,345" shape="circle"
-	    alt = ""
-            target = "_self" 
-            onMouseOver = "start_combining=0;stop_combining=1; label = document.getElementById('in_out_info'); label.innerHTML = 'in';         var label = document.getElementById('combine_info');    label.innerHTML = 'combine: ' + combine + ', start_combining: ' + start_combining + ', stop_combining: ' + stop_combining;"
-            onMouseOut = "stop_combining=0; start_combining=1; label = document.getElementById('in_out_info'); label.innerHTML = 'out' ;         var label = document.getElementById('combine_info');          label.innerHTML = 'combine: ' + combine + ', start_combining: ' + start_combining + ', stop_combining: ' + stop_combining;"
+     <area target="_self" alt="" title="" coords="569,571,516" shape="circle" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="426,1122,511,1140,590,1141,658,1134,596,1139,679,1131,716,1121,704,1074,455,987" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="20,721,29,750,45,789,62,826,87,872,109,906,135,938,166,975,203,936,85,702" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="167,170,142,195,114,232,85,275,60,320,37,372,21,424,70,436,208,208" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="718,20,792,45,855,79,897,105,944,142,974,168,935,204,705,71" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="1122,427,1135,475,1140,542,1140,591,1136,644,1127,694,1122,719,1064,703,1063,438" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
     </map>
   </div>
+</div>
 
   <div id="angle"></div>
   <div id="combine_info"></div>
   <div id="in_out_info"></div>
 
-<script>
-  combine = 1;
-  stop_combining = 0;
-  start_combining = 0;
-  prev_angle = 0;
-
-    var back = document.getElementsByClassName('back')[0];
-    var propeller2 = new Propeller(back, {speed: 0});
-
-    var spinner = document.getElementsByClassName('spinner')[0];
-    new Propeller(spinner, {
-      speed: 0,
-
-      onRotate: function() {
-        var label = document.getElementById('angle');    
-        label.innerHTML = this.angle.toFixed(2);
-
-        var label = document.getElementById('combine_info');    
-        label.innerHTML = "combine: " + combine + ", start_combining: " + start_combining + ", stop_combining: " + stop_combining;
-
-    if(combine==1) {
-      var delta = this.angle - prev_angle;
-      propeller2.angle += delta;
-      prev_angle = this.angle;
-    }
-      prev_angle = this.angle;
-},
-
-      onDragStop: function() {
-        document.getElementsByClassName('back')[0].style.pointerEvents='none';
-        document.getElementsByClassName('spinner')[0].style.pointerEvents='none';
-        target = Math.round(this.angle/30.0)*30.0;
-        from = this.angle;
-        var self = this;
-        $({ n: from }).animate({ n: target }, {
-          duration: 200,
-          complete: function() {
-            if(stop_combining==1){
-              combine = 0;
-              stop_combining=0;
-            }
-            if(start_combining==1){
-              combine = 1;
-              start_combining=0;
-            }
-            document.getElementsByClassName('back')[0].style.pointerEvents='auto';
-            document.getElementsByClassName('spinner')[0].style.pointerEvents='auto';
-          },
-          step: function(now, fx) {
-            self.angle = now;
-          }
-      });
-
-  prev_angle = this.angle;
-    },
-
-  onDragStart: function() {
-        var label = document.getElementById('combine_info');    
-        label.innerHTML = "combine: " + combine + ", start_combining: " + start_combining + ", stop_combining: " + stop_combining;
-    prev_angle = this.angle;
-  if(stop_combining==1){
-  combine = 0;
-  stop_combining=0;
-  }
-  if(start_combining==1){
-  combine = 1;
-  start_combining=0;
-  }
-}
-
-  });
-</script>
+</body>

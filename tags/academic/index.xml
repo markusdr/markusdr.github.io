@@ -13,15 +13,72 @@
     </image>
     
     <item>
-      <title>Modes Wheel: The Modes of Major Visualized</title>
-      <link>/post/getting-started/</link>
+      <title>Modes Wheel: Visualizing the Modes of Major</title>
+      <link>/post/wheel/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;
+      <guid>/post/wheel/</guid>
+      <description>
+
+&lt;style&gt;
+div.figure {
+  float: right;
+  width: 50%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+&lt;/style&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Welcome to the interactive modes wheel! This simple tool is designed to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;help you understand the modes visually, on an intuitive level, and&lt;/li&gt;
+&lt;li&gt;support your compositions and improvisations practically.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;figure&#34;&gt;
+ &lt;p&gt;&lt;img src=&#34;/img/foreground.png&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;&lt;/p&gt;
+ &lt;p&gt;A small version of the modes wheel. See the large version below or &lt;a href=&#34;/wheel.html&#34; target=&#34;popup&#34; onclick=&#34;window.open(&#39;/wheel.html&#39;,&#39;width=1024,height=1024&#39;); return false;&#34;&gt;click here for a popup&lt;/a&gt;.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Theory&lt;/strong&gt;. The modes wheel shows you the relationships of the different modes along the chromatic circle of 12 notes: How is the major mode (aka Ionian mode) related to the other modes, e.g., Dorian or Lydian? You can see the answer directly on the modes wheel. In addition, you can read off the notes of any mode in any key.&lt;/p&gt;
+
+&lt;p&gt;You can also see why a particular mode has its particular whole and half step pattern. For example, you see that the Phrygian mode starts with a half step interval (leading to its exotic feel) because it starts at the 3rd note of major &amp;ndash; just before major&amp;rsquo;s half step from the 3rd to the 4th note.&lt;/p&gt;
+
+&lt;p&gt;The modes wheel answers music theory questions visually, such as:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What are the notes of C Dorian?&lt;/li&gt;
+&lt;li&gt;What are the chords in B&amp;#9837; Lydian?&lt;/li&gt;
+&lt;li&gt;Which mode starts with two consecutive major chords?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Composition and Improvisation&lt;/strong&gt;. The modes wheel is also a practical tool to support your compositions and improvisations. It shows which chords and notes you can play in any key or mode. For example, it shows that a I-IV-V progression in C major is C-F-G; moving the wheel a whole step transposes it to D-G-A. Setting the wheel to D Mixolydian would change the progression to D-G-Am.&lt;/p&gt;
+
+&lt;p&gt;The modes wheel can give answers to practical questions like:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What notes and chords do I use to compose in C Lydian?&lt;/li&gt;
+&lt;li&gt;How do the chords in A Minor differ from the chords in A Dorian?&lt;/li&gt;
+&lt;li&gt;I wanto to compose something around E minor &amp;ndash; what other notes and chords fit well?&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;iframe src=&#34;/wheel.html&#34; width=&#34;1024&#34; height=&#34;1024&#34; frameBorder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/wheel.html&#34; 
+  target=&#34;popup&#34; 
+  onclick=&#34;window.open(&#39;/wheel.html&#39;,&#39;width=1024,height=1024&#39;); return false;&#34;&gt;
+    Open Link in Popup
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a test. Yes, &lt;em&gt;it is&lt;/em&gt;. Another &lt;strong&gt;one&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     

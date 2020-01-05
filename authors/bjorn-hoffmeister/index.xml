@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bjorn Hoffmeister | Markus Dreyer</title>
+    <title>Björn Hoffmeister | Markus Dreyer</title>
     <link>/authors/bjorn-hoffmeister/</link>
       <atom:link href="/authors/bjorn-hoffmeister/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bjorn Hoffmeister</description>
+    <description>Björn Hoffmeister</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Bjorn Hoffmeister</title>
+      <title>Björn Hoffmeister</title>
       <link>/authors/bjorn-hoffmeister/</link>
     </image>
     
