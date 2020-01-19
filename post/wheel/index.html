@@ -77,7 +77,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,900%7CMontserrat:400,400i,700,900&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,900%7CMontserrat:400,400i,700,900%7CVollkorn:400,400i,700,700i%7CFira+Sans+Condensed:300,400,400i,700,700i&display=swap">
   
 
   
@@ -89,6 +89,42 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1805428-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-1805428-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -117,7 +153,7 @@
   
   <meta property="og:site_name" content="Markus Dreyer">
   <meta property="og:url" content="/post/wheel/">
-  <meta property="og:title" content="Modes Wheel: Visualizing the Modes of Major | Markus Dreyer">
+  <meta property="og:title" content="Modes Wheel | Markus Dreyer">
   <meta property="og:description" content="Move the wheel to see the 7 modes of major in action!"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -152,7 +188,7 @@
     "@type": "WebPage",
     "@id": "/post/wheel/"
   },
-  "headline": "Modes Wheel: Visualizing the Modes of Major",
+  "headline": "Modes Wheel",
   
   "datePublished": "2016-04-20T00:00:00Z",
   "dateModified": "2019-04-17T00:00:00Z",
@@ -188,7 +224,7 @@
 
 
 
-  <title>Modes Wheel: Visualizing the Modes of Major | Markus Dreyer</title>
+  <title>Modes Wheel | Markus Dreyer</title>
 
 </head>
 
@@ -386,10 +422,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Modes Wheel: Visualizing the Modes of Major</h1>
+  <h1>Modes Wheel</h1>
 
   
-  <p class="page-subtitle">Modes of major</p>
+  <p class="page-subtitle">Visualizing the Modes of Major</p>
   
 
   
@@ -561,7 +597,7 @@ div.figure {
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/wheel/&amp;text=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/wheel/&amp;text=Modes%20Wheel" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -574,7 +610,7 @@ div.figure {
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/wheel/&amp;t=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/wheel/&amp;t=Modes%20Wheel" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -587,7 +623,7 @@ div.figure {
       
       
       <li>
-        <a href="mailto:?subject=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major&amp;body=/post/wheel/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Modes%20Wheel&amp;body=/post/wheel/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -600,7 +636,7 @@ div.figure {
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/wheel/&amp;title=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/wheel/&amp;title=Modes%20Wheel" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -613,7 +649,7 @@ div.figure {
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major%20/post/wheel/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Modes%20Wheel%20/post/wheel/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -626,7 +662,7 @@ div.figure {
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/wheel/&amp;title=Modes%20Wheel:%20Visualizing%20the%20Modes%20of%20Major" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/wheel/&amp;title=Modes%20Wheel" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
