@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Atluri | Markus Dreyer</title>
+    <link>/authors/sandeep-atluri/</link>
+      <atom:link href="/authors/sandeep-atluri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandeep Atluri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sandeep Atluri</title>
+      <link>/authors/sandeep-atluri/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>
+      <link>/publication/dblp-journalscorrabs-2108-02859/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2108-02859/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khalil Mrini | Markus Dreyer</title>
+    <link>/authors/khalil-mrini/</link>
+      <atom:link href="/authors/khalil-mrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khalil Mrini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Khalil Mrini</title>
+      <link>/authors/khalil-mrini/</link>
+    </image>
+    
+    <item>
+      <title>Rewards with Negative Examples for Reinforced Topic-Focused Abstractive Summarization</title>
+      <link>/publication/mrini-2021-rewards-wn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mrini-2021-rewards-wn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

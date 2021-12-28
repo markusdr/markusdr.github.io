@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>Arthur Brazinskas</title>
+      <link>/authors/arthur-brazinskas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/arthur-brazinskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Liu</title>
+      <link>/authors/can-liu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/can-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feng Nan</title>
+      <link>/authors/feng-nan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/feng-nan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khalil Mrini</title>
+      <link>/authors/khalil-mrini/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/khalil-mrini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markus Dreyer</title>
       <link>/authors/markus-dreyer/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/markus-dreyer/</guid>
       <description></description>
     </item>
@@ -23,8 +55,48 @@
     <item>
       <title>Mengwen Liu</title>
       <link>/authors/mengwen-liu/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/mengwen-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohit Bansal</title>
+      <link>/authors/mohit-bansal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/mohit-bansal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramakanth Pasunuru</title>
+      <link>/authors/ramakanth-pasunuru/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ramakanth-pasunuru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramesh Nallapati</title>
+      <link>/authors/ramesh-nallapati/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ramesh-nallapati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandeep Atluri</title>
+      <link>/authors/sandeep-atluri/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sandeep-atluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sujith Ravi</title>
+      <link>/authors/sujith-ravi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sujith-ravi/</guid>
       <description></description>
     </item>
     
@@ -161,7 +233,7 @@
       <link>/authors/admin/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Markus Dreyer is a Machine Learning Scientist at Amazon. He has been part of the Alexa group since 2015, leading projects in natural language understanding and question answering. He has published on transfer learning, semi-supervised learning, graphical models, semantic parsing, neural lattice parsing, and entity linking.&lt;/p&gt;
+      <description>&lt;p&gt;Markus Dreyer is a machine learning scientist at Amazon. He has been part of the Alexa group since 2015, leading projects in natural language understanding and question answering. He has published on transfer learning, semi-supervised learning, graphical models, semantic parsing, neural lattice parsing, and entity linking.&lt;/p&gt;
 </description>
     </item>
     

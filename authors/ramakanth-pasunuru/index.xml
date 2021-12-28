@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramakanth Pasunuru | Markus Dreyer</title>
+    <link>/authors/ramakanth-pasunuru/</link>
+      <atom:link href="/authors/ramakanth-pasunuru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ramakanth Pasunuru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ramakanth Pasunuru</title>
+      <link>/authors/ramakanth-pasunuru/</link>
+    </image>
+    
+    <item>
+      <title>Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters</title>
+      <link>/publication/pasunuru-2021-efficiently-st/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pasunuru-2021-efficiently-st/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

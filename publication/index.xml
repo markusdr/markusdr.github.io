@@ -5,12 +5,44 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>
+      <link>/publication/dblp-journalscorrabs-2108-02859/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2108-02859/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters</title>
+      <link>/publication/pasunuru-2021-efficiently-st/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pasunuru-2021-efficiently-st/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rewards with Negative Examples for Reinforced Topic-Focused Abstractive Summarization</title>
+      <link>/publication/mrini-2021-rewards-wn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mrini-2021-rewards-wn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive Learning for Abstractive News Summarization</title>
+      <link>/publication/dblp-journalscorrabs-2104-09500/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-2104-09500/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
