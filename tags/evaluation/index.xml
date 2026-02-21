@@ -5,12 +5,20 @@
     <link>/tags/evaluation/</link>
       <atom:link href="/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>evaluation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>evaluation</title>
       <link>/tags/evaluation/</link>
     </image>
+    
+    <item>
+      <title>RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models</title>
+      <link>/publication/muhamed-2025-refusalbench/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/muhamed-2025-refusalbench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>

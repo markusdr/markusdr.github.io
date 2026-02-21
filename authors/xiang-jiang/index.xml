@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiang Jiang | Markus Dreyer</title>
+    <link>/authors/xiang-jiang/</link>
+      <atom:link href="/authors/xiang-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiang Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xiang Jiang</title>
+      <link>/authors/xiang-jiang/</link>
+    </image>
+    
+    <item>
+      <title>NeoQA: Evidence-Based Question Answering with Generated News Events</title>
+      <link>/publication/glockner-2025-neoqa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/glockner-2025-neoqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization</title>
+      <link>/publication/jiang-2024-ccsum/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2024-ccsum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

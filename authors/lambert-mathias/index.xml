@@ -5,12 +5,28 @@
     <link>/authors/lambert-mathias/</link>
       <atom:link href="/authors/lambert-mathias/index.xml" rel="self" type="application/rss+xml" />
     <description>Lambert Mathias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Lambert Mathias</title>
       <link>/authors/lambert-mathias/</link>
     </image>
+    
+    <item>
+      <title>Lattice Decoding and Result Confirmation Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Encoding Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transfer Learning for Neural Semantic Parsing</title>

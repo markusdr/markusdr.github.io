@@ -5,12 +5,20 @@
     <link>/authors/arpit-gupta/</link>
       <atom:link href="/authors/arpit-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Arpit Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Arpit Gupta</title>
       <link>/authors/arpit-gupta/</link>
     </image>
+    
+    <item>
+      <title>Voice User Interface Knowledge Acquisition System</title>
+      <link>/publication/dabney-2020-voice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dabney-2020-voice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding</title>

@@ -5,12 +5,28 @@
     <link>/authors/bjorn-hoffmeister/</link>
       <atom:link href="/authors/bjorn-hoffmeister/index.xml" rel="self" type="application/rss+xml" />
     <description>Björn Hoffmeister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Björn Hoffmeister</title>
       <link>/authors/bjorn-hoffmeister/</link>
     </image>
+    
+    <item>
+      <title>Lattice Decoding and Result Confirmation Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Encoding Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding</title>

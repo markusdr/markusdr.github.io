@@ -5,12 +5,84 @@
     <link>/authors/mohit-bansal/</link>
       <atom:link href="/authors/mohit-bansal/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohit Bansal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Mohit Bansal</title>
       <link>/authors/mohit-bansal/</link>
     </image>
+    
+    <item>
+      <title>NewsQs: Multi-Source Question Generation for the Inquiring Mind</title>
+      <link>/publication/hwang-2024-newsqs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hwang-2024-newsqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefineSumm: Self-Refining MLLM for Generating a Multimodal Summarization Dataset</title>
+      <link>/publication/patil-2024-refinesumm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/patil-2024-refinesumm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Embeddings for Multimodal Retrieval via Frozen LLMs</title>
+      <link>/publication/wang-2024-unified/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2024-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Multi-Document Summarization with Cross-Document Graph-based Information Extraction</title>
+      <link>/publication/zhang-etal-2023-enhancing/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2023-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faithfulness-Aware Decoding Strategies for Abstractive Summarization</title>
+      <link>/publication/wan-etal-2023-faithfulness/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/wan-etal-2023-faithfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Summaries with Controllable Readability Levels</title>
+      <link>/publication/ribeiro-2023-generating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-2023-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Conditional and Compositional Language Model Differentiable Prompting</title>
+      <link>/publication/dblp-confijcai-pilault-lbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confijcai-pilault-lbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Few-Shot Fine-Tuning for Opinion Summarization</title>
+      <link>/publication/brazinskas-etal-2022-efficient/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/brazinskas-etal-2022-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations</title>
+      <link>/publication/ribeiro-etal-2022-factgraph/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-etal-2022-factgraph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters</title>

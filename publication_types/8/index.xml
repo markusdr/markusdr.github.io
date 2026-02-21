@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Markus Dreyer</title>
+    <link>/publication_types/8/</link>
+      <atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>8</title>
+      <link>/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>Meaning Summarization Techniques</title>
+      <link>/publication/dreyer-2025-meaning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2025-meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embeddings for Natural Language Processing</title>
+      <link>/publication/yu-2021-word/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yu-2021-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice User Interface Knowledge Acquisition System</title>
+      <link>/publication/dabney-2020-voice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dabney-2020-voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extendable Label Recognition of Linguistic Input</title>
+      <link>/publication/dreyer-2019-extendable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2019-extendable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Decoding and Result Confirmation Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Encoding Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Latent Variable Model for Spoken Language Understanding</title>
+      <link>/publication/kumar-2018-neural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2018-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech Processing with Learned Representation of User Interaction History</title>
+      <link>/publication/rastrow-2018-speech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rastrow-2018-speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

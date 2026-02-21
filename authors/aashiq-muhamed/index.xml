@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aashiq Muhamed | Markus Dreyer</title>
+    <link>/authors/aashiq-muhamed/</link>
+      <atom:link href="/authors/aashiq-muhamed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aashiq Muhamed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aashiq Muhamed</title>
+      <link>/authors/aashiq-muhamed/</link>
+    </image>
+    
+    <item>
+      <title>RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models</title>
+      <link>/publication/muhamed-2025-refusalbench/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/muhamed-2025-refusalbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

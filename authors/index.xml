@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,26 +13,434 @@
     </image>
     
     <item>
-      <title>Arthur Brazinskas</title>
-      <link>/authors/arthur-brazinskas/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/arthur-brazinskas/</guid>
+      <title> Others</title>
+      <link>/authors/others/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aaron Langford</title>
+      <link>/authors/aaron-langford/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/aaron-langford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aashiq Muhamed</title>
+      <link>/authors/aashiq-muhamed/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/aashiq-muhamed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aayush Shah</title>
+      <link>/authors/aayush-shah/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/aayush-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhanshu Gupta</title>
+      <link>/authors/abhanshu-gupta/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhanshu-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhimanyu Bhatter</title>
+      <link>/authors/abhimanyu-bhatter/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhimanyu-bhatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhinav Goyal</title>
+      <link>/authors/abhinav-goyal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhinav-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhinav Mathur</title>
+      <link>/authors/abhinav-mathur/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhinav-mathur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhinav Mohanty</title>
+      <link>/authors/abhinav-mohanty/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhinav-mohanty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhishek Kumar</title>
+      <link>/authors/abhishek-kumar/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhishek-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhishek Sethi</title>
+      <link>/authors/abhishek-sethi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abhishek-sethi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abi Komma</title>
+      <link>/authors/abi-komma/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/abi-komma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy Tang</title>
+      <link>/authors/andy-tang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/andy-tang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Liu</title>
       <link>/authors/can-liu/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/authors/can-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iryna Gurevych</title>
+      <link>/authors/iryna-gurevych/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/iryna-gurevych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiahe Jin</title>
+      <link>/authors/jiahe-jin/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jiahe-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo FR Ribeiro</title>
+      <link>/authors/leonardo-fr-ribeiro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/leonardo-fr-ribeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucy Mo</title>
+      <link>/authors/lucy-mo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/lucy-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Dreyer</title>
+      <link>/authors/markus-dreyer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/markus-dreyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Glockner</title>
+      <link>/authors/max-glockner/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/max-glockner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mona T Diab</title>
+      <link>/authors/mona-t-diab/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/mona-t-diab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morteza Ziyadi</title>
+      <link>/authors/morteza-ziyadi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/morteza-ziyadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prahaladh Chandrahasan</title>
+      <link>/authors/prahaladh-chandrahasan/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/prahaladh-chandrahasan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sujith Ravi</title>
+      <link>/authors/sujith-ravi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/sujith-ravi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tevin Wang</title>
+      <link>/authors/tevin-wang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/tevin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Smith</title>
+      <link>/authors/virginia-smith/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/virginia-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiang Jiang</title>
+      <link>/authors/xiang-jiang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/xiang-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhihan Zhang</title>
+      <link>/authors/zhihan-zhang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/zhihan-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zimeng Qiu</title>
+      <link>/authors/zimeng-qiu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/zimeng-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alyssa Hwang</title>
+      <link>/authors/alyssa-hwang/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/alyssa-hwang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heba Elfardy</title>
+      <link>/authors/heba-elfardy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/heba-elfardy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalpit Dixit</title>
+      <link>/authors/kalpit-dixit/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/kalpit-dixit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathleen McKeown</title>
+      <link>/authors/kathleen-mckeown/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/kathleen-mckeown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Small</title>
+      <link>/authors/kevin-small/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/kevin-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengwen Liu</title>
+      <link>/authors/mengwen-liu/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/mengwen-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Ballesteros</title>
+      <link>/authors/miguel-ballesteros/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/miguel-ballesteros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohit Bansal</title>
+      <link>/authors/mohit-bansal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/mohit-bansal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaidehi Patil</title>
+      <link>/authors/vaidehi-patil/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/vaidehi-patil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vittorio Castelli</title>
+      <link>/authors/vittorio-castelli/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/vittorio-castelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yassine Benajiba</title>
+      <link>/authors/yassine-benajiba/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yassine-benajiba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyang Wang</title>
+      <link>/authors/ziyang-wang/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/ziyang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Wan</title>
+      <link>/authors/david-wan/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/david-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feng Nan</title>
       <link>/authors/feng-nan/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>/authors/feng-nan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heng Ji</title>
+      <link>/authors/heng-ji/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/heng-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandeep Atluri</title>
+      <link>/authors/sandeep-atluri/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/sandeep-atluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zixuan Zhang</title>
+      <link>/authors/zixuan-zhang/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/zixuan-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adithya Pratapa</title>
+      <link>/authors/adithya-pratapa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/adithya-pratapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Pilault</title>
+      <link>/authors/jonathan-pilault/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/jonathan-pilault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo F. R. Ribeiro</title>
+      <link>/authors/leonardo-f.-r.-ribeiro/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/leonardo-f.-r.-ribeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arthur Brazinskas</title>
+      <link>/authors/arthur-brazinskas/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/arthur-brazinskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramesh Nallapati</title>
+      <link>/authors/ramesh-nallapati/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/ramesh-nallapati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrian Mark McLeod</title>
+      <link>/authors/adrian-mark-mcleod/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/adrian-mark-mcleod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avani Deshpande</title>
+      <link>/authors/avani-deshpande/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/avani-deshpande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boya Yu</title>
+      <link>/authors/boya-yu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/boya-yu/</guid>
       <description></description>
     </item>
     
@@ -45,26 +453,10 @@
     </item>
     
     <item>
-      <title>Markus Dreyer</title>
-      <link>/authors/markus-dreyer/</link>
+      <title>Naga Sai Likhitha Patha</title>
+      <link>/authors/naga-sai-likhitha-patha/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/markus-dreyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mengwen Liu</title>
-      <link>/authors/mengwen-liu/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/mengwen-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohit Bansal</title>
-      <link>/authors/mohit-bansal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/mohit-bansal/</guid>
+      <guid>/authors/naga-sai-likhitha-patha/</guid>
       <description></description>
     </item>
     
@@ -77,26 +469,34 @@
     </item>
     
     <item>
-      <title>Ramesh Nallapati</title>
-      <link>/authors/ramesh-nallapati/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/ramesh-nallapati/</guid>
+      <title>Anjishnu Kumar</title>
+      <link>/authors/anjishnu-kumar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/anjishnu-kumar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sandeep Atluri</title>
-      <link>/authors/sandeep-atluri/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sandeep-atluri/</guid>
+      <title>Arpit Gupta</title>
+      <link>/authors/arpit-gupta/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/arpit-gupta/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sujith Ravi</title>
-      <link>/authors/sujith-ravi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sujith-ravi/</guid>
+      <title>Faisal Ladhak</title>
+      <link>/authors/faisal-ladhak/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/faisal-ladhak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Clinton Dabney</title>
+      <link>/authors/william-clinton-dabney/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/william-clinton-dabney/</guid>
       <description></description>
     </item>
     
@@ -109,25 +509,9 @@
     </item>
     
     <item>
-      <title>Agnika Kumar</title>
-      <link>/authors/agnika-kumar/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/agnika-kumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anjishnu Kumar</title>
-      <link>/authors/anjishnu-kumar/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/anjishnu-kumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ankur Gandhe</title>
       <link>/authors/ankur-gandhe/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ankur-gandhe/</guid>
       <description></description>
     </item>
@@ -135,24 +519,88 @@
     <item>
       <title>Ariya Rastrow</title>
       <link>/authors/ariya-rastrow/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ariya-rastrow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arpit Gupta</title>
-      <link>/authors/arpit-gupta/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/arpit-gupta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Björn Hoffmeister</title>
       <link>/authors/bjorn-hoffmeister/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/bjorn-hoffmeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Marcu</title>
+      <link>/authors/daniel-marcu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-marcu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambert Mathias</title>
+      <link>/authors/lambert-mathias/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lambert-mathias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pavankumar Reddy Muddireddy</title>
+      <link>/authors/pavankumar-reddy-muddireddy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pavankumar-reddy-muddireddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denis Sergeyevich Filimonov</title>
+      <link>/authors/denis-sergeyevich-filimonov/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/denis-sergeyevich-filimonov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Chan</title>
+      <link>/authors/julian-chan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/julian-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikko Ström</title>
+      <link>/authors/nikko-strom/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/nikko-strom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Prasad</title>
+      <link>/authors/rohit-prasad/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rohit-prasad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spyridon Matsoukas</title>
+      <link>/authors/spyridon-matsoukas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/spyridon-matsoukas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnika Kumar</title>
+      <link>/authors/agnika-kumar/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/agnika-kumar/</guid>
       <description></description>
     </item>
     
@@ -169,14 +617,6 @@
       <link>/authors/denis-filiminov/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/authors/denis-filiminov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julian Chan</title>
-      <link>/authors/julian-chan/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/julian-chan/</guid>
       <description></description>
     </item>
     
@@ -205,43 +645,10 @@
     </item>
     
     <item>
-      <title>Lambert Mathias</title>
-      <link>/authors/lambert-mathias/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/lambert-mathias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xing Fan</title>
       <link>/authors/xing-fan/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/authors/xing-fan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pavankumar Reddy Muddireddy</title>
-      <link>/authors/pavankumar-reddy-muddireddy/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/pavankumar-reddy-muddireddy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Markus Dreyer is a machine learning scientist at Amazon. He has been part of the Alexa group since 2015, leading projects in natural language understanding and question answering. He has published on transfer learning, semi-supervised learning, graphical models, semantic parsing, neural lattice parsing, and entity linking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Faisal Ladhak</title>
-      <link>/authors/faisal-ladhak/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/faisal-ladhak/</guid>
       <description></description>
     </item>
     
@@ -258,14 +665,6 @@
       <link>/authors/yuanzhe-dong/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>/authors/yuanzhe-dong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Marcu</title>
-      <link>/authors/daniel-marcu/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-marcu/</guid>
       <description></description>
     </item>
     
@@ -430,14 +829,6 @@
     </item>
     
     <item>
-      <title> Others</title>
-      <link>/authors/others/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/others/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A. Burbank</title>
       <link>/authors/a.-burbank/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
@@ -507,6 +898,15 @@
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/authors/y.-shen/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Markus Dreyer is a Principal Applied Scientist at Amazon, where he works on large language models, text generation, and multi-agent systems. He contributed to the &lt;a href=&#34;https://www.amazon.science/blog/introducing-amazon-nova-foundation-models&#34; target=&#34;_blank&#34;&gt;Amazon Nova&lt;/a&gt; family of foundation models and led the development of Nova Deep Research. His research spans summarization, question answering, and natural language understanding, and he has published at venues including ACL, EMNLP, NAACL, and NeurIPS. He holds a Ph.D. in Computer Science from Johns Hopkins University.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

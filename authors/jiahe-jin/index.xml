@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiahe Jin | Markus Dreyer</title>
+    <link>/authors/jiahe-jin/</link>
+      <atom:link href="/authors/jiahe-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiahe Jin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jiahe Jin</title>
+      <link>/authors/jiahe-jin/</link>
+    </image>
+    
+    <item>
+      <title>Deep Research Comparator: A Platform for Fine-Grained Human Annotations of Deep Research Agents</title>
+      <link>/publication/chandrahasan-2025-deep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chandrahasan-2025-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

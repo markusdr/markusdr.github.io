@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multimodal | Markus Dreyer</title>
+    <link>/tags/multimodal/</link>
+      <atom:link href="/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
+    <description>multimodal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>multimodal</title>
+      <link>/tags/multimodal/</link>
+    </image>
+    
+    <item>
+      <title>RefineSumm: Self-Refining MLLM for Generating a Multimodal Summarization Dataset</title>
+      <link>/publication/patil-2024-refinesumm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/patil-2024-refinesumm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Embeddings for Multimodal Retrieval via Frozen LLMs</title>
+      <link>/publication/wang-2024-unified/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2024-unified/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

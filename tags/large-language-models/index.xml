@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>large language models | Markus Dreyer</title>
+    <link>/tags/large-language-models/</link>
+      <atom:link href="/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>large language models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>large language models</title>
+      <link>/tags/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>Deep Research Comparator: A Platform for Fine-Grained Human Annotations of Deep Research Agents</title>
+      <link>/publication/chandrahasan-2025-deep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chandrahasan-2025-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models</title>
+      <link>/publication/muhamed-2025-refusalbench/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/muhamed-2025-refusalbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Amazon Nova Family of Models: Technical Report and Model Card</title>
+      <link>/publication/langford-2025-amazon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/langford-2025-amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Embeddings for Multimodal Retrieval via Frozen LLMs</title>
+      <link>/publication/wang-2024-unified/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2024-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Conditional and Compositional Language Model Differentiable Prompting</title>
+      <link>/publication/dblp-confijcai-pilault-lbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confijcai-pilault-lbd-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

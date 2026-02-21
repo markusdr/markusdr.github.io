@@ -5,12 +5,20 @@
     <link>/authors/sandeep-atluri/</link>
       <atom:link href="/authors/sandeep-atluri/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandeep Atluri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sandeep Atluri</title>
       <link>/authors/sandeep-atluri/</link>
     </image>
+    
+    <item>
+      <title>Evaluating the Tradeoff Between Abstractiveness and Factuality in Abstractive Summarization</title>
+      <link>/publication/dreyer-etal-2023-evaluating/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2023-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>

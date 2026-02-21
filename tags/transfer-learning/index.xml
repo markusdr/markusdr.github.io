@@ -5,12 +5,20 @@
     <link>/tags/transfer-learning/</link>
       <atom:link href="/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>transfer learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>transfer learning</title>
       <link>/tags/transfer-learning/</link>
     </image>
+    
+    <item>
+      <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
+      <link>/publication/pentyala-etal-2019-multi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transfer Learning for Neural Semantic Parsing</title>

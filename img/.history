@@ -1,0 +1,9 @@
+2019-12-31T14:17:00.f0189814ec4f.ant.amazon.com cp ~/Downloads/foreground.png ~/Downloads/background.png .
+2019-12-31T16:10:57.f0189814ec4f.ant.amazon.com cp ~/Downloads/foreground.png ~/Downloads/background.png .
+2019-12-31T16:11:00.f0189814ec4f.ant.amazon.com git st 
+2020-01-04T16:34:56.f0189814ec4f.ant.amazon.com #mv foreground.png background.png 
+2020-01-04T16:34:58.f0189814ec4f.ant.amazon.com mkdir old
+2020-01-04T16:35:01.f0189814ec4f.ant.amazon.com mv foreground.png background.png old/
+2020-01-04T16:35:13.f0189814ec4f.ant.amazon.com cp ~/Downloads/foreground\ \(1\).png foreground.png
+2020-01-04T16:35:20.f0189814ec4f.ant.amazon.com cp ~/Downloads/background\ \(1\).png background.png
+2020-01-04T17:59:47.f0189814ec4f.ant.amazon.com mkdir -p ../../assets/images

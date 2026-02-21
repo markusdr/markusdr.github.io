@@ -1,0 +1,76 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!--<script src="https://code.jquery.com/jquery-1.10.2.js"></script>-->
+<script src="/propeller.js"></script>
+<script src="/wheel.js"></script>
+
+<script>
+
+  function scale() {
+      var h = window.innerHeight;
+      r = 0.98 * h / 1142; // scale the 1142x1142 image
+      
+      $('#scaled').css({
+	  '-webkit-transform': 'scale(' + r + ')',
+	  '-moz-transform': 'scale(' + r + ')',
+	  '-ms-transform': 'scale(' + r + ')',
+	  '-o-transform': 'scale(' + r + ')',
+	  'transform': 'scale(' + r + ')'
+      });
+  }
+
+  $(document).ready(function(){scale();});
+  $(window).resize(function(){scale();});
+</script>
+
+<style>
+  .absolute { position: absolute; }
+
+  #parent {
+      margin-left: 20px;
+      overflow-x: visible;
+      white-space: nowrap;
+  }
+      
+  #scaled {
+      left: 0;
+      position: fixed;
+      overflow: visible;
+      -moz-transform-origin: top left;
+      -ms-transform-origin: top left;
+      -o-transform-origin: top left;
+      -webkit-transform-origin: top left;
+      transform-origin: top left;
+      -moz-transition: all .2s ease-in-out;
+      -o-transition: all .2s ease-in-out;
+      -webkit-transition: all .2s ease-in-out;
+      transition: all .2s ease-in-out;
+  }
+</style>
+
+<body onload="init_propellers(document);">
+
+<div id="scaled">
+<div id="parent">
+  <div class="absolute" id="back">
+    <img src="/img/background.png">
+  </div>
+
+  <div class="absolute" id="front">
+    <img src="/img/foreground.png" usemap="#image-map">
+    <map name="image-map">
+     <area target="_self" alt="" title="" coords="569,571,516" shape="circle" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="426,1122,511,1140,590,1141,658,1134,596,1139,679,1131,716,1121,704,1074,455,987" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="20,721,29,750,45,789,62,826,87,872,109,906,135,938,166,975,203,936,85,702" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="167,170,142,195,114,232,85,275,60,320,37,372,21,424,70,436,208,208" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="718,20,792,45,855,79,897,105,944,142,974,168,935,204,705,71" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+     <area target="_self" alt="" title="" coords="1122,427,1135,475,1140,542,1140,591,1136,644,1127,694,1122,719,1064,703,1063,438" shape="poly" onMouseOver="move_in();" onMouseOut="move_out();">
+    </map>
+  </div>
+</div>
+</div>
+
+  <div id="angle"></div>
+  <div id="combine_info"></div>
+  <div id="in_out_info"></div>
+  
+</body>

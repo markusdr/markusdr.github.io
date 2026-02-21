@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Pilault | Markus Dreyer</title>
+    <link>/authors/jonathan-pilault/</link>
+      <atom:link href="/authors/jonathan-pilault/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Pilault</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jonathan Pilault</title>
+      <link>/authors/jonathan-pilault/</link>
+    </image>
+    
+    <item>
+      <title>On Conditional and Compositional Language Model Differentiable Prompting</title>
+      <link>/publication/dblp-confijcai-pilault-lbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confijcai-pilault-lbd-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,425 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/others/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2021-12-27T16:41:00-08:00</lastmod>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/8/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-langford/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aashiq-muhamed/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aayush-shah/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhanshu-gupta/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhimanyu-bhatter/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhinav-goyal/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhinav-mathur/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhinav-mohanty/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhishek-kumar/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhishek-sethi/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abi-komma/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andy-tang/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/can-liu/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/chandrahasan-2025-deep/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/evaluation/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/iryna-gurevych/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jiahe-jin/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/large-language-models/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leonardo-fr-ribeiro/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lucy-mo/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/markus-dreyer/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/max-glockner/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dreyer-2025-meaning/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mona-t-diab/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/morteza-ziyadi/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-agent-systems/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/glockner-2025-neoqa/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prahaladh-chandrahasan/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/question-answering/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/muhamed-2025-refusalbench/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sujith-ravi/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summarization/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tevin-wang/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/langford-2025-amazon/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/virginia-smith/</loc>
+    <lastmod>2026-02-21T12:04:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiang-jiang/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhihan-zhang/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zimeng-qiu/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alyssa-hwang/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jiang-2024-ccsum/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heba-elfardy/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kalpit-dixit/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kathleen-mckeown/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-small/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mengwen-liu/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/miguel-ballesteros/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mohit-bansal/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multimodal/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hwang-2024-newsqs/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/patil-2024-refinesumm/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wang-2024-unified/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vaidehi-patil/</loc>
+    <lastmod>2026-02-21T12:04:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vittorio-castelli/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yassine-benajiba/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ziyang-wang/</loc>
+    <lastmod>2026-02-21T12:04:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-wan/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhang-etal-2023-enhancing/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dreyer-etal-2023-evaluating/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/factuality/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wan-etal-2023-faithfulness/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/feng-nan/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heng-ji/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sandeep-atluri/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zixuan-zhang/</loc>
+    <lastmod>2023-11-24T17:00:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adithya-pratapa/</loc>
+    <lastmod>2023-11-24T17:06:21-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pratapa-2023-background/</loc>
+    <lastmod>2023-11-24T17:06:21-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ribeiro-2023-generating/</loc>
+    <lastmod>2023-11-24T17:06:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-pilault/</loc>
+    <lastmod>2023-11-24T17:06:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leonardo-f.-r.-ribeiro/</loc>
+    <lastmod>2023-11-24T17:06:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dblp-confijcai-pilault-lbd-23/</loc>
+    <lastmod>2023-11-24T17:06:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arthur-brazinskas/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/brazinskas-etal-2022-efficient/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ribeiro-etal-2022-factgraph/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ramesh-nallapati/</loc>
+    <lastmod>2023-11-24T17:00:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adrian-mark-mcleod/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
@@ -18,18 +428,13 @@
   </url>
   
   <url>
-    <loc>/authors/arthur-brazinskas/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
+    <loc>/authors/avani-deshpande/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/can-liu/</loc>
-    <lastmod>2021-12-27T16:41:00-08:00</lastmod>
+    <loc>/authors/boya-yu/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
@@ -38,43 +443,18 @@
   </url>
   
   <url>
-    <loc>/authors/feng-nan/</loc>
-    <lastmod>2021-12-28T08:36:17-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/khalil-mrini/</loc>
     <lastmod>2021-12-27T16:41:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
+    <loc>/authors/naga-sai-likhitha-patha/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/markus-dreyer/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mengwen-liu/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohit-bansal/</loc>
-    <lastmod>2021-12-27T16:41:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
+    <loc>/tags/natural-language-processing/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
@@ -83,8 +463,8 @@
   </url>
   
   <url>
-    <loc>/authors/ramesh-nallapati/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2021-12-27T16:41:00-08:00</lastmod>
   </url>
   
   <url>
@@ -93,42 +473,47 @@
   </url>
   
   <url>
-    <loc>/authors/sandeep-atluri/</loc>
-    <lastmod>2021-12-28T08:36:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sujith-ravi/</loc>
-    <lastmod>2021-12-28T08:38:59-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/dblp-journalscorrabs-2104-09500/</loc>
     <lastmod>2021-12-28T08:38:59-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/acl/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/yu-2021-word/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/amazon/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/anjishnu-kumar/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/multi-task/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/arpit-gupta/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/faisal-ladhak/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natural-language-understanding/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dabney-2020-voice/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-clinton-dabney/</loc>
+    <lastmod>2026-02-21T12:11:37-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/pentyala-etal-2019-multi/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neural/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,37 +523,117 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/transfer-learning/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/agnika-kumar/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anjishnu-kumar/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/ankur-gandhe/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ariya-rastrow/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/arpit-gupta/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bjorn-hoffmeister/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-marcu/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dreyer-2019-extendable/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lambert-mathias/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ladhak-2019-lattice-2/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ladhak-2019-lattice-1/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-translation/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/marcu-2019-method-1/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/marcu-2019-method-2/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pavankumar-reddy-muddireddy/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/speech/</loc>
+    <lastmod>2026-02-21T12:11:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/denis-sergeyevich-filimonov/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julian-chan/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kumar-2018-neural/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nikko-strom/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rohit-prasad/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rastrow-2018-speech/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/spyridon-matsoukas/</loc>
+    <lastmod>2026-02-21T12:11:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/agnika-kumar/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,32 +648,12 @@
   </url>
   
   <url>
-    <loc>/authors/julian-chan/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/kumar-2017-just-ask/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nlu/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/sam-tucker/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/slot-filling/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/speech/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,17 +668,7 @@
   </url>
   
   <url>
-    <loc>/authors/lambert-mathias/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/semantic-parsing/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/transfer-learning/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,63 +683,8 @@
   </url>
   
   <url>
-    <loc>/tags/interspeech/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pavankumar-reddy-muddireddy/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/zero-shot/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/kumar-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/wheel/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/faisal-ladhak/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lattice/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -313,32 +693,7 @@
   </url>
   
   <url>
-    <loc>/tags/rnn/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dynamic-programming/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/finite-state/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hyp/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/dreyer-graehl-2015-hyp/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hypergraphs/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,53 +708,13 @@
   </url>
   
   <url>
-    <loc>/tags/machine-translation/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ranking/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/yuanzhe-dong/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniel-marcu/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/emnlp/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/evaluation/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hyter/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/dreyer-marcu-2012-hyter/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/belief-propagation/</loc>
-    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dirichlet/</loc>
-    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -414,11 +729,6 @@
   
   <url>
     <loc>/authors/jason-eisner/</loc>
-    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/monte-carlo/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -449,11 +759,6 @@
   
   <url>
     <loc>/publication/conficassp-rastrow-dskrd-11/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/icassp/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -493,12 +798,12 @@
   </url>
   
   <url>
-    <loc>/tags/entity/</loc>
+    <loc>/publication/mc-namee-2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mc-namee-2009/</loc>
+    <loc>/tags/information-extraction/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,11 +823,6 @@
   </url>
   
   <url>
-    <loc>/tags/tac/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/tim-finin/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -533,37 +833,12 @@
   </url>
   
   <url>
-    <loc>/tags/latent-variables/</loc>
-    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/dreyer-smith-eisner-2008/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lemmatization/</loc>
-    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/log-linear/</loc>
-    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/confusion-network/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/damianos-karakos/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/itg/</loc>
     <lastmod>2008-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -583,16 +858,6 @@
   </url>
   
   <url>
-    <loc>/tags/naacl/</loc>
-    <lastmod>2007-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reordering/</loc>
-    <lastmod>2007-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/dreyer-2007/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -608,28 +873,13 @@
   </url>
   
   <url>
-    <loc>/tags/prosody/</loc>
+    <loc>/tags/parsing/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/dreyer-eisner-2006/</loc>
     <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/parsing/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/semi-supervised/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/conll/</loc>
-    <lastmod>2006-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -645,11 +895,6 @@
   <url>
     <loc>/publication/dreyer-etal-2006-vine/</loc>
     <lastmod>2006-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/others/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -705,6 +950,18 @@
   <url>
     <loc>/authors/y.-shen/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
   </url>
   
   <url>

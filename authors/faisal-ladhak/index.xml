@@ -5,12 +5,36 @@
     <link>/authors/faisal-ladhak/</link>
       <atom:link href="/authors/faisal-ladhak/index.xml" rel="self" type="application/rss+xml" />
     <description>Faisal Ladhak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Faisal Ladhak</title>
       <link>/authors/faisal-ladhak/</link>
     </image>
+    
+    <item>
+      <title>Voice User Interface Knowledge Acquisition System</title>
+      <link>/publication/dabney-2020-voice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dabney-2020-voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Decoding and Result Confirmation Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Encoding Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LatticeRnn: Recurrent Neural Networks Over Lattices</title>

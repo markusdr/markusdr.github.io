@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohit Prasad | Markus Dreyer</title>
+    <link>/authors/rohit-prasad/</link>
+      <atom:link href="/authors/rohit-prasad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rohit Prasad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rohit Prasad</title>
+      <link>/authors/rohit-prasad/</link>
+    </image>
+    
+    <item>
+      <title>Speech Processing with Learned Representation of User Interaction History</title>
+      <link>/publication/rastrow-2018-speech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rastrow-2018-speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

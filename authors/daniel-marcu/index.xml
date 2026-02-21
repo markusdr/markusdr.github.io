@@ -5,12 +5,28 @@
     <link>/authors/daniel-marcu/</link>
       <atom:link href="/authors/daniel-marcu/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Marcu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Daniel Marcu</title>
       <link>/authors/daniel-marcu/</link>
     </image>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HyTER: Meaning-Equivalent Semantics for Translation Evaluation</title>

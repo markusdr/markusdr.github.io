@@ -5,12 +5,148 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Deep Research Comparator: A Platform for Fine-Grained Human Annotations of Deep Research Agents</title>
+      <link>/publication/chandrahasan-2025-deep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chandrahasan-2025-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning Summarization Techniques</title>
+      <link>/publication/dreyer-2025-meaning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2025-meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeoQA: Evidence-Based Question Answering with Generated News Events</title>
+      <link>/publication/glockner-2025-neoqa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/glockner-2025-neoqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models</title>
+      <link>/publication/muhamed-2025-refusalbench/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/muhamed-2025-refusalbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Amazon Nova Family of Models: Technical Report and Model Card</title>
+      <link>/publication/langford-2025-amazon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/langford-2025-amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization</title>
+      <link>/publication/jiang-2024-ccsum/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2024-ccsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NewsQs: Multi-Source Question Generation for the Inquiring Mind</title>
+      <link>/publication/hwang-2024-newsqs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hwang-2024-newsqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefineSumm: Self-Refining MLLM for Generating a Multimodal Summarization Dataset</title>
+      <link>/publication/patil-2024-refinesumm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/patil-2024-refinesumm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Embeddings for Multimodal Retrieval via Frozen LLMs</title>
+      <link>/publication/wang-2024-unified/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2024-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Multi-Document Summarization with Cross-Document Graph-based Information Extraction</title>
+      <link>/publication/zhang-etal-2023-enhancing/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2023-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Tradeoff Between Abstractiveness and Factuality in Abstractive Summarization</title>
+      <link>/publication/dreyer-etal-2023-evaluating/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2023-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faithfulness-Aware Decoding Strategies for Abstractive Summarization</title>
+      <link>/publication/wan-etal-2023-faithfulness/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/wan-etal-2023-faithfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background Summarization of Event Timelines</title>
+      <link>/publication/pratapa-2023-background/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pratapa-2023-background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Summaries with Controllable Readability Levels</title>
+      <link>/publication/ribeiro-2023-generating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-2023-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Conditional and Compositional Language Model Differentiable Prompting</title>
+      <link>/publication/dblp-confijcai-pilault-lbd-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confijcai-pilault-lbd-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Few-Shot Fine-Tuning for Opinion Summarization</title>
+      <link>/publication/brazinskas-etal-2022-efficient/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/brazinskas-etal-2022-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations</title>
+      <link>/publication/ribeiro-etal-2022-factgraph/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-etal-2022-factgraph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>
@@ -45,10 +181,82 @@
     </item>
     
     <item>
+      <title>Word Embeddings for Natural Language Processing</title>
+      <link>/publication/yu-2021-word/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yu-2021-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice User Interface Knowledge Acquisition System</title>
+      <link>/publication/dabney-2020-voice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dabney-2020-voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Task Networks with Universe, Group, and Task Feature Learning</title>
       <link>/publication/pentyala-etal-2019-multi/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/pentyala-etal-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extendable Label Recognition of Linguistic Input</title>
+      <link>/publication/dreyer-2019-extendable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2019-extendable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Decoding and Result Confirmation Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice Encoding Using Recurrent Neural Networks</title>
+      <link>/publication/ladhak-2019-lattice-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ladhak-2019-lattice-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Latent Variable Model for Spoken Language Understanding</title>
+      <link>/publication/kumar-2018-neural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kumar-2018-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech Processing with Learned Representation of User Interaction History</title>
+      <link>/publication/rastrow-2018-speech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rastrow-2018-speech/</guid>
       <description></description>
     </item>
     

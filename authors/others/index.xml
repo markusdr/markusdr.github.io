@@ -5,12 +5,28 @@
     <link>/authors/others/</link>
       <atom:link href="/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description> Others</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title> Others</title>
       <link>/authors/others/</link>
     </image>
+    
+    <item>
+      <title>Deep Research Comparator: A Platform for Fine-Grained Human Annotations of Deep Research Agents</title>
+      <link>/publication/chandrahasan-2025-deep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chandrahasan-2025-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Amazon Nova Family of Models: Technical Report and Model Card</title>
+      <link>/publication/langford-2025-amazon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/langford-2025-amazon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Final report of the 2005 language engineering workshop on statistical machine translation by parsing</title>

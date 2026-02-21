@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vittorio Castelli | Markus Dreyer</title>
+    <link>/authors/vittorio-castelli/</link>
+      <atom:link href="/authors/vittorio-castelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vittorio Castelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vittorio Castelli</title>
+      <link>/authors/vittorio-castelli/</link>
+    </image>
+    
+    <item>
+      <title>NewsQs: Multi-Source Question Generation for the Inquiring Mind</title>
+      <link>/publication/hwang-2024-newsqs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hwang-2024-newsqs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>/authors/sujith-ravi/</link>
       <atom:link href="/authors/sujith-ravi/index.xml" rel="self" type="application/rss+xml" />
     <description>Sujith Ravi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sujith Ravi</title>
       <link>/authors/sujith-ravi/</link>
     </image>
+    
+    <item>
+      <title>Meaning Summarization Techniques</title>
+      <link>/publication/dreyer-2025-meaning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2025-meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Tradeoff Between Abstractiveness and Factuality in Abstractive Summarization</title>
+      <link>/publication/dreyer-etal-2023-evaluating/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-etal-2023-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>

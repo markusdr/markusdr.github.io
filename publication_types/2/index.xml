@@ -5,12 +5,44 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Deep Research Comparator: A Platform for Fine-Grained Human Annotations of Deep Research Agents</title>
+      <link>/publication/chandrahasan-2025-deep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chandrahasan-2025-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefusalBench: Generative Evaluation of Selective Refusal in Grounded Language Models</title>
+      <link>/publication/muhamed-2025-refusalbench/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/muhamed-2025-refusalbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Amazon Nova Family of Models: Technical Report and Model Card</title>
+      <link>/publication/langford-2025-amazon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/langford-2025-amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NewsQs: Multi-Source Question Generation for the Inquiring Mind</title>
+      <link>/publication/hwang-2024-newsqs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/hwang-2024-newsqs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing the Abstractiveness-Factuality Tradeoff With Nonlinear Abstractiveness Constraints</title>

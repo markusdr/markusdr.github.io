@@ -5,12 +5,20 @@
     <link>/tags/parsing/</link>
       <atom:link href="/tags/parsing/index.xml" rel="self" type="application/rss+xml" />
     <description>parsing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2006 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>parsing</title>
       <link>/tags/parsing/</link>
     </image>
+    
+    <item>
+      <title>Exploiting prosody for PCFGs with latent annotations</title>
+      <link>/publication/dreyer-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-2007/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Better Informed Training of Latent Syntactic Features</title>

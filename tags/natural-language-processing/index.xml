@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing | Markus Dreyer</title>
+    <link>/tags/natural-language-processing/</link>
+      <atom:link href="/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural language processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>natural language processing</title>
+      <link>/tags/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Word Embeddings for Natural Language Processing</title>
+      <link>/publication/yu-2021-word/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yu-2021-word/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

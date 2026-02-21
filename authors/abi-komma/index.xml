@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abi Komma | Markus Dreyer</title>
+    <link>/authors/abi-komma/</link>
+      <atom:link href="/authors/abi-komma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abi Komma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Abi Komma</title>
+      <link>/authors/abi-komma/</link>
+    </image>
+    
+    <item>
+      <title>The Amazon Nova Family of Models: Technical Report and Model Card</title>
+      <link>/publication/langford-2025-amazon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/langford-2025-amazon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

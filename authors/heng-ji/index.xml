@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heng Ji | Markus Dreyer</title>
+    <link>/authors/heng-ji/</link>
+      <atom:link href="/authors/heng-ji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heng Ji</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Heng Ji</title>
+      <link>/authors/heng-ji/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Multi-Document Summarization with Cross-Document Graph-based Information Extraction</title>
+      <link>/publication/zhang-etal-2023-enhancing/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2023-enhancing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

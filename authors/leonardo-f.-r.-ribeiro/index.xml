@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo F. R. Ribeiro | Markus Dreyer</title>
+    <link>/authors/leonardo-f.-r.-ribeiro/</link>
+      <atom:link href="/authors/leonardo-f.-r.-ribeiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo F. R. Ribeiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Leonardo F. R. Ribeiro</title>
+      <link>/authors/leonardo-f.-r.-ribeiro/</link>
+    </image>
+    
+    <item>
+      <title>Generating Summaries with Controllable Readability Levels</title>
+      <link>/publication/ribeiro-2023-generating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-2023-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations</title>
+      <link>/publication/ribeiro-etal-2022-factgraph/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ribeiro-etal-2022-factgraph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

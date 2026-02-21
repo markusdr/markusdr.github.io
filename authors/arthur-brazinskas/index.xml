@@ -5,12 +5,20 @@
     <link>/authors/arthur-brazinskas/</link>
       <atom:link href="/authors/arthur-brazinskas/index.xml" rel="self" type="application/rss+xml" />
     <description>Arthur Brazinskas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Arthur Brazinskas</title>
       <link>/authors/arthur-brazinskas/</link>
     </image>
+    
+    <item>
+      <title>Efficient Few-Shot Fine-Tuning for Opinion Summarization</title>
+      <link>/publication/brazinskas-etal-2022-efficient/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/brazinskas-etal-2022-efficient/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transductive Learning for Abstractive News Summarization</title>

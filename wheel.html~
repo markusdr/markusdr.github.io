@@ -1,0 +1,104 @@
+    <script src="https://code.jquery.com/jquery-1.10.2.js">
+    </script>
+<script src="/propeller.js"></script>
+
+<style>
+      .spinner {
+      position: absolute;
+      }
+      .back {
+      position: absolute;
+      }
+</style>
+
+  <div class="back">
+    <img src="/img/background.png">
+  </div>
+
+  <div class="spinner">
+    <img src="/img/foreground.png" usemap="#image-map">
+    <map name="image-map">
+      <area coords="512,512,345" shape="circle"
+	    alt = ""
+            target = "_self" 
+            onMouseOver = "start_combining=0;stop_combining=1; label = document.getElementById('in_out_info'); label.innerHTML = 'in';         var label = document.getElementById('combine_info');    label.innerHTML = 'combine: ' + combine + ', start_combining: ' + start_combining + ', stop_combining: ' + stop_combining;"
+            onMouseOut = "stop_combining=0; start_combining=1; label = document.getElementById('in_out_info'); label.innerHTML = 'out' ;         var label = document.getElementById('combine_info');          label.innerHTML = 'combine: ' + combine + ', start_combining: ' + start_combining + ', stop_combining: ' + stop_combining;"
+    </map>
+  </div>
+
+  <div id="angle"></div>
+  <div id="combine_info"></div>
+  <div id="in_out_info"></div>
+
+<script>
+  combine = 1;
+  stop_combining = 0;
+  start_combining = 0;
+  prev_angle = 0;
+
+    var back = document.getElementsByClassName('back')[0];
+    var propeller2 = new Propeller(back, {speed: 0});
+
+    var spinner = document.getElementsByClassName('spinner')[0];
+    new Propeller(spinner, {
+      speed: 0,
+
+      onRotate: function() {
+        var label = document.getElementById('angle');    
+        label.innerHTML = this.angle.toFixed(2);
+
+        var label = document.getElementById('combine_info');    
+        label.innerHTML = "combine: " + combine + ", start_combining: " + start_combining + ", stop_combining: " + stop_combining;
+
+    if(combine==1) {
+      var delta = this.angle - prev_angle;
+      propeller2.angle += delta;
+      prev_angle = this.angle;
+    }
+      prev_angle = this.angle;
+},
+
+      onDragStop: function() {
+        document.getElementsByClassName('back')[0].style.pointerEvents='none';
+        document.getElementsByClassName('spinner')[0].style.pointerEvents='none';
+        target = Math.round(this.angle/30.0)*30.0;
+        from = this.angle;
+        var self = this;
+        $({ n: from }).animate({ n: target }, {
+          duration: 200,
+          complete: function() {
+            if(stop_combining==1){
+              combine = 0;
+              stop_combining=0;
+            }
+            if(start_combining==1){
+              combine = 1;
+              start_combining=0;
+            }
+            document.getElementsByClassName('back')[0].style.pointerEvents='auto';
+            document.getElementsByClassName('spinner')[0].style.pointerEvents='auto';
+          },
+          step: function(now, fx) {
+            self.angle = now;
+          }
+      });
+
+  prev_angle = this.angle;
+    },
+
+  onDragStart: function() {
+        var label = document.getElementById('combine_info');    
+        label.innerHTML = "combine: " + combine + ", start_combining: " + start_combining + ", stop_combining: " + stop_combining;
+    prev_angle = this.angle;
+  if(stop_combining==1){
+  combine = 0;
+  stop_combining=0;
+  }
+  if(start_combining==1){
+  combine = 1;
+  start_combining=0;
+  }
+}
+
+  });
+</script>

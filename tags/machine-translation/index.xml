@@ -5,12 +5,36 @@
     <link>/tags/machine-translation/</link>
       <atom:link href="/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
     <description>machine translation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>machine translation</title>
       <link>/tags/machine-translation/</link>
     </image>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Automatic Management of Reputation of Translators</title>
+      <link>/publication/marcu-2019-method-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marcu-2019-method-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyp: A Toolkit for Representing, Manipulating, and Optimizing Hypergraphs</title>
+      <link>/publication/dreyer-graehl-2015-hyp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer-graehl-2015-hyp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>APRO: All-Pairs Ranking Optimization for MT Tuning</title>
